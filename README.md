@@ -1,1 +1,2 @@
-# Kalkulator-parametr-w-skrawania
+# Kalkulator parametrów skrawania
+Pomaga dobrać paramety skrawania dla frezeró lub tokarzy.
