@@ -1,0 +1,1 @@
+# Kalkulator-parametr-w-skrawania
